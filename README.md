@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💰 E-Ling Backend API
 
 Backend REST API untuk aplikasi **E-Ling (Easy Financial Tracking)** — sistem pencatatan pemasukan dan pengeluaran harian berbasis mobile.  
@@ -128,3 +129,6 @@ Eling-Backend/
 **Nama:** Dimas (dan tim)  
 **Proyek:** E-Ling — Aplikasi Manajemen Keuangan  
 **Tahun:** 2025
+=======
+# E_link-backend
+>>>>>>> 07711afa8cfc0d040b45af831378abfdbcd83434
