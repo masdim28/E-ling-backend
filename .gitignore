@@ -1,0 +1,14 @@
+# Folder upload foto profil
+uploads/
+
+# File database lokal
+eling.sql
+
+# File konfigurasi sensitif (opsional)
+config/koneksi.php
+
+# File sementara sistem
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
